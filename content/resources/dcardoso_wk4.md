@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 82715cd6-5203-a3e1-d711-4cb5e7ccd6ca
 resourcetype: Document
 title: Perfect Slaves
 uid: 661b5c6e-4cf5-7d4b-5e77-d94e0d74d8d3

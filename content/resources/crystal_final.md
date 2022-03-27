@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 82715cd6-5203-a3e1-d711-4cb5e7ccd6ca
 resourcetype: Document
 title: Technology, Nature, and the Loss of Meaning
 uid: 9598cf42-a5f5-feee-7549-56f79c54e68e

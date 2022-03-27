@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 82715cd6-5203-a3e1-d711-4cb5e7ccd6ca
 resourcetype: Document
 title: The politics of naturalism
 uid: 25f93157-70e0-f42b-63b2-7fe91fe9f079

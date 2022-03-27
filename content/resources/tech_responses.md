@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: e758eec6-9aa5-37e8-b1ca-b4fcc02fe73e
 resourcetype: Document
 title: What Do We Mean by Technology?
 uid: 830f56f1-1bc3-4770-37fd-9e157c29c1c1
