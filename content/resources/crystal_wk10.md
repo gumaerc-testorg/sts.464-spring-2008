@@ -2,10 +2,11 @@
 content_type: resource
 description: "Example student paper on ecological crisis: \"John Hersey\u2019s Hiroshima:\
   \ Reactions to a Technological Novelty,\" by Lisa Crystal."
-file: /media/courses/sts-464-technology-and-the-literary-imagination-spring-2008/55de81ba923a0244aa0171d6c44a40c9_crystal_wk10.pdf
+file: /courses/sts-464-technology-and-the-literary-imagination-spring-2008/55de81ba923a0244aa0171d6c44a40c9_crystal_wk10.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,3 +15,4 @@ resourcetype: Document
 title: "John Hersey\u2019s Hiroshima: Reactions to a Technological Novelty"
 uid: 55de81ba-923a-0244-aa01-71d6c44a40c9
 ---
+Example student paper on ecological crisis: "John Hersey’s Hiroshima: Reactions to a Technological Novelty," by Lisa Crystal.
