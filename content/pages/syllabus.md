@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus sect5ion provides information on the work of the course,
+  meeting times, recommended books, and the schedule of lecture topics.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
