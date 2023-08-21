@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on the weekly writing assignment of
+  the course along with example student papers.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -44,9 +46,9 @@ Technology in America today: Don DeLillo's _White Noise_
 {{< tdopen >}}
 
 
-Cardoso, Daniel. "Modern superstitions." ([PDF]({{< baseurl >}}/resources/dcardoso_wk2))
+Cardoso, Daniel. "Modern superstitions." ({{% resource_link 16f2bf79-dcb2-8dca-948d-e2969a84ceb6 "PDF" %}})
 
-Crystal, Lisa. "Technology and Faith in Don DeLillo’s _White Noise_." ([PDF]({{< baseurl >}}/resources/crystal_wk2))
+Crystal, Lisa. "Technology and Faith in Don DeLillo’s _White Noise_." ({{% resource_link 6c88de90-83ff-d236-5e44-d1bce1776482 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -60,7 +62,7 @@ Crystal, Lisa. "Technology and Faith in Don DeLillo’s _White Noise_." ([PDF]({
 The enlightenment: Thomas Jefferson's _Notes on the State of Virginia_
 {{< tdclose >}}
 {{< tdopen >}}
-Cardoso, Daniel. "The politics of naturalism." ([PDF]({{< baseurl >}}/resources/dcardoso_wk3))
+Cardoso, Daniel. "The politics of naturalism." ({{% resource_link 25f93157-70e0-f42b-63b2-7fe91fe9f079 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -72,7 +74,7 @@ Cardoso, Daniel. "The politics of naturalism." ([PDF]({{< baseurl >}}/resources/
 Industrialization: a Trans-Atlantic debate
 {{< tdclose >}}
 {{< tdopen >}}
-Cardoso, Daniel. "Perfect slaves." ([PDF]({{< baseurl >}}/resources/dcardoso_wk4))
+Cardoso, Daniel. "Perfect slaves." ({{% resource_link 661b5c6e-4cf5-7d4b-5e77-d94e0d74d8d3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -84,7 +86,7 @@ Cardoso, Daniel. "Perfect slaves." ([PDF]({{< baseurl >}}/resources/dcardoso_wk4
 Technological dynamism
 {{< tdclose >}}
 {{< tdopen >}}
-Cardoso, Daniel. "A new variety of mind." ([PDF]({{< baseurl >}}/resources/dcardoso_wk5))
+Cardoso, Daniel. "A new variety of mind." ({{% resource_link 50f2ecb7-d36d-f60e-3f1b-07be329e8b28 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -96,7 +98,7 @@ Cardoso, Daniel. "A new variety of mind." ([PDF]({{< baseurl >}}/resources/dcard
 An epic of technological fatality (I): Herman Melville's _Moby-Dick_, chapters 1-40
 {{< tdclose >}}
 {{< tdopen >}}
-Cardoso, Daniel. "A new kind of science (of whales)." ([PDF]({{< baseurl >}}/resources/dcardoso_wk6))
+Cardoso, Daniel. "A new kind of science (of whales)." ({{% resource_link 77992fef-a78b-bd0f-a89a-cc40d630d1f9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -108,7 +110,7 @@ Cardoso, Daniel. "A new kind of science (of whales)." ([PDF]({{< baseurl >}}/res
 An epic of technological fatality (II): Herman Melville's _Moby-Dick_, chapters 41-96
 {{< tdclose >}}
 {{< tdopen >}}
-Cardoso, Daniel. "Science as fiction." ([PDF]({{< baseurl >}}/resources/dcardoso_wk7))
+Cardoso, Daniel. "Science as fiction." ({{% resource_link 26a46ca2-0369-9c34-60b5-14e0791d505e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -120,7 +122,7 @@ Cardoso, Daniel. "Science as fiction." ([PDF]({{< baseurl >}}/resources/dcardoso
 An epic of technological fatality (III): Herman Melville's _Moby-Dick_, overview
 {{< tdclose >}}
 {{< tdopen >}}
-Cardoso, Daniel. "Ishmael's empty ship." ([PDF]({{< baseurl >}}/resources/dcardoso_wk8))
+Cardoso, Daniel. "Ishmael's empty ship." ({{% resource_link 10818925-5f49-2cc7-5b21-1c815d932f9f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -132,7 +134,7 @@ Cardoso, Daniel. "Ishmael's empty ship." ([PDF]({{< baseurl >}}/resources/dcardo
 The lost America: Sarah Orne Jewett's _The Country of the Pointed Firs_
 {{< tdclose >}}
 {{< tdopen >}}
-Cardoso, Daniel. "Fog-shaped men." ([PDF]({{< baseurl >}}/resources/dcardoso_wk9))
+Cardoso, Daniel. "Fog-shaped men." ({{% resource_link ece816e3-04a3-2d98-a3ea-f2281a80fa37 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -146,9 +148,9 @@ Ecological Crisis I: John Hersey's _Hiroshima_
 {{< tdopen >}}
 
 
-Cardoso, Daniel. "An unknown force." ([PDF]({{< baseurl >}}/resources/dcardoso_wk10))
+Cardoso, Daniel. "An unknown force." ({{% resource_link cf605c07-0016-d6d4-5fa5-abf8e097c1db "PDF" %}})
 
-Crystal, Lisa. "John Hersey’s _Hiroshima_: Reactions to a Technological Novelty." ([PDF]({{< baseurl >}}/resources/crystal_wk10))
+Crystal, Lisa. "John Hersey’s _Hiroshima_: Reactions to a Technological Novelty." ({{% resource_link 55de81ba-923a-0244-aa01-71d6c44a40c9 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -164,9 +166,9 @@ Ecological Crisis II: Bill McKibben's _The End of Nature_
 {{< tdopen >}}
 
 
-Cardoso, Daniel. "Rembrandts and streetlamps." ([PDF]({{< baseurl >}}/resources/dcardoso_wk11))
+Cardoso, Daniel. "Rembrandts and streetlamps." ({{% resource_link 52d9b774-fcda-41b4-58ea-829a214c0c95 "PDF" %}})
 
-Crystal, Lisa. "Locating the Boundaries: Humans, Nature, and God in Bill McKibben’s _The End of Nature_." ([PDF]({{< baseurl >}}/resources/crystal_wk11))
+Crystal, Lisa. "Locating the Boundaries: Humans, Nature, and God in Bill McKibben’s _The End of Nature_." ({{% resource_link e94d3253-ecfc-317c-9a8b-278a52e014e3 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -182,8 +184,8 @@ For their final paper, students will critically assess the validity of McKibben'
 
 ### Example Student Papers
 
-Cardoso, Daniel. "Design and the Automated Utopia." ([PDF]({{< baseurl >}}/resources/dcardoso_final))
+Cardoso, Daniel. "Design and the Automated Utopia." ({{% resource_link aa34a95b-fbcd-bcd7-8abf-90663cf04897 "PDF" %}})
 
-Crystal, Lisa. "Technology, Nature, and the Loss of Meaning." ([PDF]({{< baseurl >}}/resources/crystal_final))
+Crystal, Lisa. "Technology, Nature, and the Loss of Meaning." ({{% resource_link 9598cf42-a5f5-feee-7549-56f79c54e68e "PDF" %}})
 
-McCammack, Brian. "Reconciling Continuity and Rupture: Rhetorical Strategy in Seeing Escalators as Tipping Points in the Writings of Thomas Carlyle, Henry Adams, and Bill McKibben." ([PDF]({{< baseurl >}}/resources/mccammack_final))
+McCammack, Brian. "Reconciling Continuity and Rupture: Rhetorical Strategy in Seeing Escalators as Tipping Points in the Writings of Thomas Carlyle, Henry Adams, and Bill McKibben." ({{% resource_link 0b5eb356-caf2-9695-1520-d44cec91dbdf "PDF" %}})
