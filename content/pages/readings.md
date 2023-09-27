@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the list of readings assigned for the course along
+  with information on recommended books.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -57,7 +59,7 @@ Aims of the course
 
 In-class reading: excerpt from Don DeLillo, _White Noise_, pp. 124-129
 
-Discussion: What do we mean by _technology_? ([PDF]({{< baseurl >}}/resources/tech_responses))
+Discussion: What do we mean by _technology_? ({{% resource_link 830f56f1-1bc3-4770-37fd-9e157c29c1c1 "PDF" %}})
 
 
 {{< tdclose >}}
