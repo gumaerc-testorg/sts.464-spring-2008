@@ -4,6 +4,7 @@ description: 'Example student paper on the validity of McKibben''s argument in T
   End of Nature, in the light of the historical record as revealed by readings and
   discussions: "Design and the Automated Utopia," by Daniel Cardoso.'
 file: /courses/sts-464-technology-and-the-literary-imagination-spring-2008/aa34a95bfbcdbcd78abf90663cf04897_dcardoso_final.pdf
+file_size: 141598
 file_type: application/pdf
 learning_resource_types:
 - Assignments
