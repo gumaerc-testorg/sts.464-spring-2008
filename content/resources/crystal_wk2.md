@@ -3,6 +3,7 @@ content_type: resource
 description: "Example student paper on technology in America today: \"Technology and\
   \ Faith in Don DeLillo\u2019s White Noise,\" by Lisa Crystal."
 file: /courses/sts-464-technology-and-the-literary-imagination-spring-2008/6c88de9083ffd2365e44d1bce1776482_crystal_wk2.pdf
+file_size: 92717
 file_type: application/pdf
 learning_resource_types:
 - Assignments

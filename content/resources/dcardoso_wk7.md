@@ -3,6 +3,7 @@ content_type: resource
 description: 'Example student paper on Herman Melville''s Moby-Dick: "Science as fiction,"
   by Daniel Cardoso.'
 file: /courses/sts-464-technology-and-the-literary-imagination-spring-2008/26a46ca203699c3460b514e0791d505e_dcardoso_wk7.pdf
+file_size: 89879
 file_type: application/pdf
 learning_resource_types:
 - Assignments
