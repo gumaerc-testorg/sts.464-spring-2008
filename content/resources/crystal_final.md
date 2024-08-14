@@ -4,6 +4,7 @@ description: 'Example student paper on the validity of McKibben''s argument in T
   End of Nature, in the light of the historical record as revealed by readings and
   discussions: "Technology, Nature, and the Loss of Meaning," by Lisa Crystal.'
 file: /courses/sts-464-technology-and-the-literary-imagination-spring-2008/9598cf42a5f5feee754956f79c54e68e_crystal_final.pdf
+file_size: 105947
 file_type: application/pdf
 learning_resource_types:
 - Assignments
