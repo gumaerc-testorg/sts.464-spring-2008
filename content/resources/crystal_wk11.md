@@ -2,7 +2,7 @@
 content_type: resource
 description: "Example student paper on ecological crisis: \"Locating the Boundaries:\
   \ Humans, Nature, and God in Bill McKibben\u2019s The End of Nature,\" by Lisa Crystal."
-file: /courses/sts-464-technology-and-the-literary-imagination-spring-2008/e94d3253ecfc317c9a8b278a52e014e3_crystal_wk11.pdf
+file: /ol-ocw-studio-app/courses/sts-464-technology-and-the-literary-imagination-spring-2008/e94d3253ecfc317c9a8b278a52e014e3_crystal_wk11.pdf
 file_size: 91401
 file_type: application/pdf
 learning_resource_types:
