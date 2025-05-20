@@ -5,7 +5,7 @@ description: 'Example student paper on the validity of McKibben''s argument in T
   discussions: "Reconciling Continuity and Rupture: Rhetorical Strategy in Seeing
   Escalators as Tipping Points in the Writings of Thomas Carlyle, Henry Adams, and
   Bill McKibben," by Brian McCammack.'
-file: /ol-ocw-studio-app/courses/sts-464-technology-and-the-literary-imagination-spring-2008/0b5eb356caf296951520d44cec91dbdf_mccammack_final.pdf
+file: /courses/sts-464-technology-and-the-literary-imagination-spring-2008/0b5eb356caf296951520d44cec91dbdf_mccammack_final.pdf
 file_size: 191732
 file_type: application/pdf
 learning_resource_types:
