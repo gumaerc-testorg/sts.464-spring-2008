@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Example student paper on Sarah Orne Jewett''s The Country of the Pointed
   Firs: "Fog-shaped men," by Daniel Cardoso.'
-file: /ol-ocw-studio-app/courses/sts-464-technology-and-the-literary-imagination-spring-2008/ece816e304a32d98a3eaf2281a80fa37_dcardoso_wk9.pdf
+file: /courses/sts-464-technology-and-the-literary-imagination-spring-2008/ece816e304a32d98a3eaf2281a80fa37_dcardoso_wk9.pdf
 file_size: 86081
 file_type: application/pdf
 learning_resource_types:
