@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Example student paper on technology in America today: Don DeLillo''s
   White Noise. "Modern superstitions" by Daniel Cardoso.'
-file: /ol-ocw-studio-app/courses/sts-464-technology-and-the-literary-imagination-spring-2008/16f2bf79dcb28dca948de2969a84ceb6_dcardoso_wk2.pdf
+file: /courses/sts-464-technology-and-the-literary-imagination-spring-2008/16f2bf79dcb28dca948de2969a84ceb6_dcardoso_wk2.pdf
 file_size: 86069
 file_type: application/pdf
 learning_resource_types:

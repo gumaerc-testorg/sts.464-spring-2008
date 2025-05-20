@@ -2,7 +2,7 @@
 content_type: resource
 description: "Student responses to the question: \u201CWhat do you think about when\
   \ you think about technology?\u201D"
-file: /ol-ocw-studio-app/courses/sts-464-technology-and-the-literary-imagination-spring-2008/830f56f11bc3477037fd9e157c29c1c1_tech_responses.pdf
+file: /courses/sts-464-technology-and-the-literary-imagination-spring-2008/830f56f11bc3477037fd9e157c29c1c1_tech_responses.pdf
 file_size: 142238
 file_type: application/pdf
 learning_resource_types:
