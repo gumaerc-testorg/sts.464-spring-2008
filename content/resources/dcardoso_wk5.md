@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Example student paper on technological dynamism: "A new variety of mind,"
   by Daniel Cardoso.'
-file: /courses/sts-464-technology-and-the-literary-imagination-spring-2008/50f2ecb7d36df60e3f1b07be329e8b28_dcardoso_wk5.pdf
+file: /ol-ocw-studio-app/courses/sts-464-technology-and-the-literary-imagination-spring-2008/50f2ecb7d36df60e3f1b07be329e8b28_dcardoso_wk5.pdf
 file_size: 90542
 file_type: application/pdf
 learning_resource_types:
