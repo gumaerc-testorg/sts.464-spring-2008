@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Example student paper on ecological crisis and Bill McKibben''s The
   End of Nature: "Rembrandts and streetlamps" by Daniel Cardoso.'
-file: /courses/sts-464-technology-and-the-literary-imagination-spring-2008/52d9b774fcda41b458ea829a214c0c95_dcardoso_wk11.pdf
+file: /ol-ocw-studio-app/courses/sts-464-technology-and-the-literary-imagination-spring-2008/52d9b774fcda41b458ea829a214c0c95_dcardoso_wk11.pdf
 file_size: 90017
 file_type: application/pdf
 learning_resource_types:
