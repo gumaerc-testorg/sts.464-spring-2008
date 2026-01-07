@@ -96,7 +96,7 @@ Jefferson, Thomas, and Alexanderr Hamilton. "Debate over Manufactures." In \[S&C
 
 In Scharff and Dusek, eds., pp. 38-65:
 
-- Kant, Immanuel. "{{% resource_link "5a22bf28-79ce-4523-951a-2f9b15d881c8" "Idea for a Universal History from a Cosmopolitan Point of View" %}}."
+- Kant, Immanuel. "[Idea for a Universal History from a Cosmopolitan Point of View](http://www.marxists.org/reference/subject/ethics/kant/universal-history.htm)."
 - Comte, Auguste. "The Nature and Importance of the Positive Philosophy."
 - Rousseau, Jean-Jacques. "On the Sciences and Arts."
 
@@ -110,15 +110,15 @@ Industrialization: A trans-atlantic debate
 
 \[S&C\] "Inside Factory Systems." pp. 144-157.
 
-Carlyle, Thomas. "{{% resource_link "e017527d-5882-494e-9c3e-caa319918595" "Signs of the Times" %}}."
+Carlyle, Thomas. "[Signs of the Times](http://www.victorianweb.org/authors/carlyle/signs1.html)."
 
 Walker, Timothy. "Defence of Mechanical Philosophy." *North American Review* 33, no. 1 (1831).
 
-Emerson, Ralph Waldo. "{{% resource_link "b94bd233-17ab-4884-a726-44bf61b4f57c" "The Young American" %}}."
+Emerson, Ralph Waldo. "[The Young American](http://www.emersoncentral.com/youngam.htm)."
 
 ### Ancillary reading
 
-Thoreau, Henry David. "{{% resource_link "78833e5e-ffc6-4df3-ad67-33575e5b4c53" "Sounds" %}}." Chapter IV in *Walden*.
+Thoreau, Henry David. "[Sounds](https://etc.usf.edu/lit2go/90/walden-or-life-in-the-woods/1542/sounds/)." Chapter IV in *Walden*.
 
 Peckham, Morse. "Toward a Theory of Romanticism." *PMLA* 66, no. 2 (March 1951): 5-23.
 
@@ -126,11 +126,11 @@ Williams, Raymond. "Carlyle," "The Industrial Novels," and "Marxism and Culture.
 
 In *The Marx-Engels Reader*. Edited by R. C. Tucker. New York, NY: W.W. Norton, 1978. ISBN: 9780393090406.
 
-- Marx, Karl. "{{% resource_link "cdc93400-4d13-47a1-a928-08fab9f898b2" "Economic and Philosophic Manuscripts of 1844" %}}." Translated by Martin Mulligan.
-- ———. {{% resource_link "b5a77542-297e-4e90-9153-65124cb7fc67" "Preface to *A Critique of Political Economy*" %}}.
-- ———. "{{% resource_link "ffdee470-3bcf-41cf-b9b4-8eece631928b" "Machinery and Modern Industry" %}}." Chapter 15 in *Capital*, Vol. I, Part IV.
+- Marx, Karl. "[Economic and Philosophic Manuscripts of 1844](http://www.marxists.org/archive/marx/works/1844/manuscripts/preface.htm)." Translated by Martin Mulligan.
+- ———. [Preface to *A Critique of Political Economy*](http://www.marxists.org/archive/marx/works/1859/critique-pol-economy/preface.htm).
+- ———. "[Machinery and Modern Industry](http://www.marxists.org/archive/marx/works/1867-c1/ch15.htm)." Chapter 15 in *Capital*, Vol. I, Part IV.
 
-Marx, Karl, and Friedrich Engels. {{% resource_link "4d5af6a0-5e2a-438a-886c-24e66e82657d" "*The Communist Manifesto*" %}}.
+Marx, Karl, and Friedrich Engels. [*The Communist Manifesto*](http://www.marxists.org/archive/marx/works/1848/communist-manifesto/).
 
 ———. "Capitalism and the Modern Labor Process." In Scharff and Dusek, pp. 66-79.
 
@@ -140,17 +140,17 @@ Marx, Karl, and Friedrich Engels. {{% resource_link "4d5af6a0-5e2a-438a-886c-24e
 Technological dynamism
 {{< tdclose >}}{{< tdopen >}}
 
-Adams, Henry. *The Education of Henry Adams*. New York, NY: Oxford University Press, 1999, chapters 1-3, 22, 25, 33, and 34. ISBN: 9780192823694. ({{% resource_link "d0c24692-9fd8-4d6a-bfb5-e0dc519c4d21" "Download" %}} a version from Project Gutenberg.)
+Adams, Henry. *The Education of Henry Adams*. New York, NY: Oxford University Press, 1999, chapters 1-3, 22, 25, 33, and 34. ISBN: 9780192823694. ([Download](http://www.gutenberg.org/ebooks/2044) a version from Project Gutenberg.)
 
 ### Ancillary reading
 
-Arnold, Matthew. "Introduction," and "Conclusion." Chapters 1-3 in *Culture and Anarchy*. New York, NY: Cambridge University Press, 1993. ISBN: 9780521377966. ({{% resource_link "44c212f0-a9c0-4af6-9d3b-1cacd79ca4a0" "Download" %}} a version from Project Gutenberg.)
+Arnold, Matthew. "Introduction," and "Conclusion." Chapters 1-3 in *Culture and Anarchy*. New York, NY: Cambridge University Press, 1993. ISBN: 9780521377966. ([Download](http://www.gutenberg.org/etext/4212) a version from Project Gutenberg.)
 
 Trachtenberg, Alan. "Mechanization Takes Command." Chapter 2 in *The Incorporation of America* (selections). New York, NY: Hill and Wang, 2007, pp. 38-69. ISBN: 9780809058280.
 
 Williams, Raymond. "Introduction," and "J. H. Newman and Matthew Arnold." In *Culture and Society: 1780-1950*. New York, NY: Columbia University Press, 1983. ISBN: 9780231057011.
 
-Williams, Rosalind. "{{% resource_link "8c6f2aa5-a423-4da6-b745-7bdb0ed2e609" "Afterword" %}}" to Castell's *The Network Society: A Cross-Cultural Perspective* (2004).
+Williams, Rosalind. "[Afterword](http://web.mit.edu/~rhwill/www/writing/castells-afterword.html)" to Castell's *The Network Society: A Cross-Cultural Perspective* (2004).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
@@ -214,7 +214,7 @@ Carson, Rachel. *Silent Spring*. 25th anniversary ed. Boston, MA: Houghton Miffl
 
 White, Lynn. "The Historical Roots of Our Ecological Crisis." *Science* 155, no. 3767 (March 10, 1967): 1203-1207.
 
-Marx, Leo. "{{% resource_link "32c375ac-8ef0-46c4-99bb-61c76cbb8108" "American Institutions and Ecological Ideals" %}}." *Science* 170 (November 27, 1970): 945-952.
+Marx, Leo. "[American Institutions and Ecological Ideals](http://dlc.dlib.indiana.edu/dlc/handle/10535/2461)." *Science* 170 (November 27, 1970): 945-952.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
